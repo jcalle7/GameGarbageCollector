@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+p{
+    color: cornflowerblue;
+    text-align: center;
+    text-decoration: overline; overflow: auto;
+}
